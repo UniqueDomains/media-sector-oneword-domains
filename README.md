@@ -16,7 +16,7 @@ This selection includes 176,445 one-word domain names associated with the media 
 
 **Public extract:** 1,000 rows · **Live catalog:** 188,938 domains · **Median ask:** $622.38 · **High-demand under $2,500:** 371
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/media`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| word.ryukyu      | available | $22.98     | —             | high           | low    | 4      | namecheap                |
-| fun.ag           | resell    | —          | —             | high           | medium | 3      | GrepApps Technology Inc. |
-| film.shop        | premium   | $12,500    | —             | high           | low    | 4      | name.com                 |
-| blogs.apartments | available | $19.99     | —             | medium         | low    | 5      | name.com                 |
-| lab.media        | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
-| live.blog        | premium   | $15,646.25 | $62,500       | high           | low    | 4      | name.com                 |
-| blogs.black      | available | $29.99     | —             | medium         | low    | 5      | name.com                 |
-| web.berlin       | resell    | —          | —             | high           | medium | 3      | —                        |
-| talk.shop        | premium   | $6,250     | —             | high           | low    | 4      | name.com                 |
-| blogs.film       | available | $65.99     | $65.99        | medium         | low    | 5      | namesilo                 |
-| web.camp         | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
-| blogs.bar        | premium   | $84.99     | —             | medium         | low    | 5      | name.com                 |
-| blogs.jetzt      | available | $9.99      | —             | medium         | low    | 5      | name.com                 |
-| web.engineering  | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
-| blogs.blog       | premium   | $640       | $0.99         | medium         | low    | 5      | namesilo                 |
-| blogs.salon      | available | $14.99     | —             | medium         | low    | 5      | name.com                 |
-| web.finance      | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
-| blogs.boo        | premium   | $623.75    | —             | medium         | low    | 5      | name.com                 |
-| blogs.town       | available | $9.99      | —             | medium         | low    | 5      | name.com                 |
-| web.markets      | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
+| content.you       | premium   | $1,250     | $1,250        | high           | low    | 7      | name.com        |
+| lab.audio         | available | $104.99    | $114.99       | high           | medium | 3      | namesilo        |
+| video.net         | resell    | $115,000   | $23.99        | high           | medium | 5      | Spaceship, Inc. |
+| book.blog         | premium   | $15,646.25 | —             | high           | medium | 4      | name.com        |
+| blogs.gripe       | available | $6.99      | $6.99         | medium         | low    | 5      | namesilo        |
+| lab.media         | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| book.press        | premium   | $3,125     | —             | high           | medium | 4      | name.com        |
+| blogs.movie       | available | $69.99     | —             | medium         | low    | 5      | name.com        |
+| web.camp          | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| film.blog         | premium   | $15,646.25 | —             | high           | low    | 4      | name.com        |
+| blogs.photos      | available | $14.99     | —             | medium         | low    | 5      | name.com        |
+| web.finance       | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| film.news         | premium   | $700       | $1,400        | high           | low    | 4      | namecheap       |
+| blogs.productions | available | $14.99     | —             | medium         | low    | 5      | name.com        |
+| web.solutions     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC     |
+| film.observer     | premium   | $29.50     | $29.50        | high           | low    | 4      | namesilo        |
+| chief.press       | available | $4.99      | $86.99        | high           | low    | 5      | namesilo        |
+| book.media        | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc. |
+| film.online       | premium   | $7,812.50  | —             | high           | low    | 4      | name.com        |
+| press.ryukyu      | available | $22.98     | —             | medium         | low    | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Media Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Media Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
