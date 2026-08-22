@@ -1,10 +1,10 @@
-# One-Word Media Domain Names (190,245)
+# One-Word Media Domain Names (192,805)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-190%2C245%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-192%2C805%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 176,445 one-word domain names associated with the media sector, spanning 506 different TLDs. The median asking price is about $679. Updated daily to reflect current listings and pricing shifts across TLDs.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **190,245 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **192,805 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 190,245 domains · **Median ask:** $618.53 · **High-demand under $2,500:** 371
+**Public extract:** 1,000 rows · **Live catalog:** 192,805 domains · **Median ask:** $612.36 · **High-demand under $2,500:** 371
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/sector/media`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | content.you   | premium   | $1,250     | $1,250        | high           | low    | 7      | name.com                  |
 | talk.movie    | available | $69.99     | —             | high           | low    | 4      | name.com                  |
 | video.net     | resell    | $115,000   | $23.99        | high           | medium | 5      | Spaceship, Inc.           |
-| art.press     | premium   | $3,250     | $6,500        | high           | medium | 3      | namecheap                 |
-| audio.movie   | available | $69.99     | —             | high           | low    | 5      | name.com                  |
-| content.xyz   | resell    | $57,500    | $20.99        | high           | low    | 7      | Unstoppable Domains, Inc. |
-| fun.blog      | premium   | $3,146.25  | —             | high           | medium | 3      | name.com                  |
-| audio.ryukyu  | available | $22.98     | —             | high           | low    | 5      | namecheap                 |
-| web.press     | resell    | —          | —             | high           | medium | 3      | Namify Domains Inc        |
 | web.blog      | premium   | $3,146.25  | —             | high           | medium | 3      | name.com                  |
 | paper.movie   | available | $69.99     | —             | high           | low    | 5      | name.com                  |
-| web.solutions | resell    | —          | —             | high           | medium | 3      | Porkbun LLC               |
+| content.xyz   | resell    | $57,500    | $20.99        | high           | low    | 7      | Unstoppable Domains, Inc. |
 | web.observer  | premium   | $854       | $854          | high           | medium | 3      | namesilo                  |
-| radio.movie   | available | $69.99     | —             | high           | medium | 5      | name.com                  |
-| book.media    | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc.           |
+| press.ryukyu  | available | $22.98     | —             | medium         | low    | 5      | namecheap                 |
+| web.press     | resell    | —          | —             | high           | medium | 3      | Namify Domains Inc        |
 | book.blog     | premium   | $15,646.25 | —             | high           | medium | 4      | name.com                  |
-| medium.movie  | available | $69.99     | —             | high           | low    | 6      | name.com                  |
-| book.so       | resell    | —          | —             | high           | medium | 4      | Dynadot LLC               |
+| radio.movie   | available | $69.99     | —             | high           | medium | 5      | name.com                  |
+| web.solutions | resell    | —          | —             | high           | medium | 3      | Porkbun LLC               |
 | book.news     | premium   | $700       | $1,400        | high           | medium | 4      | namecheap                 |
-| medium.photo  | available | $29.99     | $29.99        | high           | low    | 6      | namesilo                  |
+| filmed.media  | available | $5.98      | $58.98        | low            | low    | 6      | namecheap                 |
+| book.media    | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc.           |
+| book.observer | premium   | $854       | $854          | high           | medium | 4      | namesilo                  |
+| filmed.movie  | available | $40.98     | $446.98       | medium         | low    | 6      | namecheap                 |
+| book.so       | resell    | —          | —             | high           | medium | 4      | Dynadot LLC               |
+| book.press    | premium   | $3,125     | —             | high           | medium | 4      | name.com                  |
+| filmed.press  | available | $4.99      | $86.99        | low            | low    | 6      | namesilo                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 190,245 live domains                       |
+| 1,000-row public sample | 192,805 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 371 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Media Domain Names*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Media Domain Names*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
