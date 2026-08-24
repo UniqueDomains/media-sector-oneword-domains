@@ -16,7 +16,7 @@ This selection includes 176,445 one-word domain names associated with the media 
 
 **Public extract:** 1,000 rows · **Live catalog:** 193,859 domains · **Median ask:** $611.12 · **High-demand under $2,500:** 371
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/media`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| host.hamburg     | available | $59.99     | $59.99        | medium         | medium | 4      | name.com                                                |
-| fun.ag           | resell    | —          | —             | high           | medium | 3      | GrepApps Technology Inc.                                |
-| film.blog        | premium   | $15,646.25 | —             | high           | low    | 4      | name.com                                                |
-| word.ryukyu      | available | $22.98     | —             | high           | low    | 4      | namecheap                                               |
-| lab.media        | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                                             |
-| film.observer    | premium   | $29.50     | $29.50        | high           | low    | 4      | namesilo                                                |
-| blogs.coach      | available | $19.99     | —             | medium         | low    | 5      | name.com                                                |
-| web.camp         | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                                             |
-| film.press       | premium   | $3,125     | —             | high           | low    | 4      | name.com                                                |
-| blogs.deals      | available | $5.99      | —             | medium         | low    | 5      | name.com                                                |
-| web.engineering  | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                                             |
-| film.shop        | premium   | $12,500    | —             | high           | low    | 4      | name.com                                                |
-| blogs.film       | available | $65.99     | $65.99        | medium         | low    | 5      | namesilo                                                |
-| web.finance      | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                                             |
-| host.blog        | premium   | $640       | $2,660        | medium         | medium | 4      | namesilo                                                |
-| blogs.foundation | available | $5.99      | —             | medium         | low    | 5      | name.com                                                |
-| web.markets      | resell    | —          | —             | high           | medium | 3      | Porkbun LLC                                             |
-| host.boo         | premium   | $623.75    | $623.75       | medium         | medium | 4      | name.com                                                |
-| blogs.fund       | available | $15.99     | —             | medium         | low    | 5      | name.com                                                |
-| film.kim         | resell    | —          | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| content.you       | premium   | $1,250     | $1,250        | high           | low    | 7      | name.com         |
+| blogs.movie       | available | $69.99     | —             | medium         | low    | 5      | name.com         |
+| video.net         | resell    | $115,000   | $23.99        | high           | medium | 5      | Spaceship, Inc.  |
+| book.blog         | premium   | $15,646.25 | —             | high           | medium | 4      | name.com         |
+| blogs.productions | available | $14.99     | —             | medium         | low    | 5      | name.com         |
+| lab.media         | resell    | —          | —             | high           | medium | 3      | Porkbun LLC      |
+| book.news         | premium   | $700       | $1,400        | high           | medium | 4      | namecheap        |
+| chief.press       | available | $4.99      | $86.99        | high           | low    | 5      | namesilo         |
+| web.solutions     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC      |
+| book.observer     | premium   | $854       | $854          | high           | medium | 4      | namesilo         |
+| press.ryukyu      | available | $22.98     | —             | medium         | low    | 5      | namecheap        |
+| book.media        | resell    | —          | —             | high           | medium | 4      | Spaceship, Inc.  |
+| book.press        | premium   | $3,125     | —             | high           | medium | 4      | name.com         |
+| radio.movie       | available | $69.99     | —             | high           | medium | 5      | name.com         |
+| film.so           | resell    | —          | —             | high           | low    | 4      | NameCheap        |
+| film.blog         | premium   | $15,646.25 | —             | high           | low    | 4      | name.com         |
+| shows.stream      | available | $9.98      | —             | medium         | low    | 5      | namecheap        |
+| host.live         | resell    | —          | —             | medium         | medium | 4      | GoDaddy.com, LLC |
+| film.mov          | premium   | $623.75    | —             | high           | low    | 4      | name.com         |
+| column.ryukyu     | available | $22.98     | —             | high           | low    | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Media Domain Names*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Media Domain Names*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
