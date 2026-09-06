@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| room.movie      | available | $69.99    | —             | high           | low    | 4      | name.com                                                  |
-| radio.talk      | resell    | $150      | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| art.online      | premium   | $3,125    | $12,500       | high           | medium | 3      | name.com                                                  |
-| talk.graphics   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo                                                  |
-| video.net       | resell    | $115,000  | $23.99        | high           | medium | 5      | Spaceship, Inc.                                           |
-| art.press       | premium   | $3,250    | $6,500        | high           | medium | 3      | namecheap                                                 |
-| talk.movie      | available | $69.99    | —             | high           | low    | 4      | name.com                                                  |
-| broadcast.click | resell    | $1.99     | —             | high           | low    | 9      | Dynadot, LLC                                              |
-| fun.blog        | premium   | $3,146.25 | —             | high           | medium | 3      | name.com                                                  |
-| talk.pictures   | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
-| art.news        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| fun.observer    | premium   | $854      | $854          | high           | medium | 3      | namesilo                                                  |
-| audio.movie     | available | $69.99    | —             | high           | low    | 5      | name.com                                                  |
-| web.press       | resell    | —         | —             | high           | medium | 3      | Namify Domains Inc                                        |
-| fun.press       | premium   | $312.50   | —             | high           | medium | 3      | name.com                                                  |
-| audio.pictures  | available | $9.99     | —             | high           | low    | 5      | name.com                                                  |
-| book.media      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
-| web.blog        | premium   | $3,146.25 | —             | high           | medium | 3      | name.com                                                  |
-| house.movie     | available | $69.99    | —             | high           | medium | 5      | name.com                                                  |
-| book.so         | resell    | —         | —             | high           | medium | 4      | Dynadot LLC                                               |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| word.ryukyu     | available | $22.98     | —             | high           | low    | 4      | namecheap                |
+| fun.ag          | resell    | —          | —             | high           | medium | 3      | GrepApps Technology Inc. |
+| film.blog       | premium   | $15,646.25 | —             | high           | low    | 4      | name.com                 |
+| blogs.film      | available | $65.99     | $65.99        | medium         | low    | 5      | namesilo                 |
+| lab.media       | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
+| film.news       | premium   | $700       | $1,400        | high           | low    | 4      | namecheap                |
+| blogs.forex     | available | $19.99     | —             | medium         | low    | 5      | name.com                 |
+| web.camp        | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
+| film.observer   | premium   | $29.50     | $29.50        | high           | low    | 4      | namesilo                 |
+| blogs.game      | available | $309.99    | $329.99       | medium         | low    | 5      | namesilo                 |
+| web.finance     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
+| film.press      | premium   | $3,125     | —             | high           | low    | 4      | name.com                 |
+| blogs.melbourne | available | $53.98     | —             | medium         | low    | 5      | namecheap                |
+| web.markets     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC              |
+| film.shop       | premium   | $12,500    | —             | high           | low    | 4      | name.com                 |
+| blogs.movie     | available | $69.99     | —             | medium         | low    | 5      | name.com                 |
+| host.show       | resell    | —          | —             | medium         | medium | 4      | DNSPod, Inc.             |
+| host.blog       | premium   | $640       | $2,660        | medium         | medium | 4      | namesilo                 |
+| blogs.photos    | available | $14.99     | —             | medium         | low    | 5      | name.com                 |
+| live.media      | resell    | —          | —             | high           | medium | 4      | Dynadot Inc              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
