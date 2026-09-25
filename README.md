@@ -1,10 +1,10 @@
-# One-Word Media Domain Names (82,514)
+# One-Word Media Domain Names (71,518)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-82%2C514%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C518%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 176,445 one-word domain names associated with the media sector, spanning 506 different TLDs. The median asking price is about $679. Updated daily to reflect current listings and pricing shifts across TLDs.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **82,514 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **71,518 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 82,514 domains · **Median ask:** $439.66 · **High-demand under $2,500:** 54
+**Public extract:** 1,000 rows · **Live catalog:** 71,518 domains · **Median ask:** $322.66 · **High-demand under $2,500:** 35
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/media`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| book.bingo        | available | $53.99     | $53.99        | high           | medium | 4      | namesilo                                    |
-| press.mom         | resell    | $1.99      | —             | high           | low    | 5      | Global Domains International, Inc.          |
-| book.sexy         | premium   | $13,800    | $13,800       | high           | medium | 4      | namesilo                                    |
-| book.football     | available | $26.98     | $36.98        | high           | medium | 4      | namecheap                                   |
-| press.paris       | resell    | $51.98     | —             | high           | low    | 5      | GoDaddy.com LLC                             |
-| press.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com                                    |
-| audio.photos      | available | $8.98      | $40.98        | high           | low    | 5      | namecheap                                   |
-| journalism.co     | resell    | $5,514.25  | $48.99        | high           | low    | 10     | GoDaddy Online Services Cayman Islands Ltd. |
-| press.actor       | premium   | $854       | $854          | high           | low    | 5      | namesilo                                    |
 | press.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                    |
-| journalism.me     | resell    | $18,271.20 | $27.99        | high           | low    | 10     | Dynadot Inc                                 |
-| press.airforce    | premium   | $854       | $854          | high           | low    | 5      | namesilo                                    |
+| press.mom         | resell    | $1.99      | —             | high           | low    | 5      | Global Domains International, Inc.          |
+| press.accountant  | premium   | $437.50    | —             | high           | low    | 5      | name.com                                    |
 | press.adult       | available | $166.98    | —             | high           | low    | 5      | namecheap                                   |
-| push.support      | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.                             |
-| press.army        | premium   | $854       | $854          | high           | low    | 5      | namesilo                                    |
+| press.paris       | resell    | $51.98     | —             | high           | low    | 5      | GoDaddy.com LLC                             |
+| press.actor       | premium   | $854       | $854          | high           | low    | 5      | namesilo                                    |
 | press.apartments  | available | $19.99     | —             | high           | low    | 5      | name.com                                    |
-| talk.business     | resell    | —          | —             | high           | low    | 4      | Porkbun LLC                                 |
-| press.art         | premium   | $3,450     | $83.30        | high           | low    | 5      | namesilo                                    |
+| newspaper.info    | resell    | $9,200     | $35.99        | high           | low    | 9      | Unstoppable Domains Inc                     |
+| press.airforce    | premium   | $854       | $854          | high           | low    | 5      | namesilo                                    |
 | press.archi       | available | $24.99     | —             | high           | low    | 5      | name.com                                    |
-| audio.baby        | resell    | —          | —             | high           | low    | 5      | Spaceship, Inc.                             |
+| journalism.co     | resell    | $5,514.25  | $48.99        | high           | low    | 10     | GoDaddy Online Services Cayman Islands Ltd. |
+| press.army        | premium   | $854       | $854          | high           | low    | 5      | namesilo                                    |
+| press.auto        | available | $1,999.99  | $2,199        | high           | low    | 5      | namesilo                                    |
+| journalism.info   | resell    | $2,758.85  | $35.99        | high           | low    | 10     | GoDaddy.com, LLC                            |
+| press.art         | premium   | $3,450     | $83.30        | high           | low    | 5      | namesilo                                    |
+| press.barcelona   | available | $38.98     | —             | high           | low    | 5      | namecheap                                   |
+| journalism.me     | resell    | $18,271.20 | $27.99        | high           | low    | 10     | Dynadot Inc                                 |
+| press.attorney    | premium   | $3,125     | —             | high           | low    | 5      | name.com                                    |
+| press.bayern      | available | $34.99     | $34.99        | high           | low    | 5      | namesilo                                    |
+| press.academy     | resell    | —          | —             | high           | low    | 5      | Automattic Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 82,514 live domains                        |
+| 1,000-row public sample | 71,518 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 54 high-demand names under $2,500          |
+| Basic exported fields   | 35 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
