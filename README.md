@@ -1,10 +1,10 @@
-# One-Word Media Domain Names (146,686)
+# One-Word Media Domain Names (161,206)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-146%2C686%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-161%2C206%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 176,445 one-word domain names associated with the media sector, spanning 506 different TLDs. The median asking price is about $679. Updated daily to reflect current listings and pricing shifts across TLDs.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **146,686 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **161,206 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 146,686 domains · **Median ask:** $401.63 · **High-demand under $2,500:** 424
+**Public extract:** 1,000 rows · **Live catalog:** 161,206 domains · **Median ask:** $373.78 · **High-demand under $2,500:** 383
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/media`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| news.auto         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                  |
-| press.mom         | resell    | $1.99      | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| film.press        | premium   | $6,900     | $6,900        | high           | low    | 4      | namesilo                                                  |
-| news.car          | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                  |
-| press.paris       | resell    | $51.98     | —             | high           | low    | 5      | GoDaddy.com LLC                                           |
-| film.you          | premium   | $302.50    | $302.50       | high           | low    | 4      | namesilo                                                  |
-| news.cars         | available | $1,863.20  | $2,064.20     | high           | medium | 4      | spaceship                                                 |
-| broadcast.click   | resell    | $1.99      | —             | high           | low    | 9      | Dynadot, LLC                                              |
-| news.accountant   | premium   | $517.70    | $67.48        | high           | medium | 4      | spaceship                                                 |
-| news.melbourne    | available | $58        | $58           | high           | medium | 4      | namesilo                                                  |
-| broadcast.fit     | resell    | $2.99      | —             | high           | low    | 9      | Spaceship, Inc.                                           |
-| news.accountants  | premium   | $102.67    | $102.67       | high           | medium | 4      | spaceship                                                 |
-| news.protection   | available | $2,070     | $2,950        | high           | medium | 4      | namecheap                                                 |
-| broadcast.health  | resell    | $19.99     | —             | high           | low    | 9      | Dynadot Inc                                               |
-| news.attorney     | premium   | $3,300     | $3,300        | high           | medium | 4      | dynadot                                                   |
-| news.security     | available | $1,863.20  | $2,000.18     | high           | medium | 4      | spaceship                                                 |
-| journalism.me     | resell    | $18,271.20 | $27.99        | high           | low    | 10     | Dynadot Inc                                               |
-| news.auction      | premium   | $512       | $512          | high           | medium | 4      | namesilo                                                  |
-| news.storage      | available | $509.99    | $529.99       | high           | medium | 4      | namesilo                                                  |
-| television.church | resell    | $11.99     | —             | high           | low    | 10     | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| news.auto        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| press.mom        | resell    | $1.99     | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| news.accountant  | premium   | $517.70   | $67.48        | high           | medium | 4      | spaceship                                                 |
+| news.car         | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| press.paris      | resell    | $51.98    | —             | high           | low    | 5      | GoDaddy.com LLC                                           |
+| news.accountants | premium   | $102.67   | $102.67       | high           | medium | 4      | spaceship                                                 |
+| news.cars        | available | $1,863.20 | $2,064.20     | high           | medium | 4      | spaceship                                                 |
+| news.airforce    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| news.attorney    | premium   | $3,300    | $3,300        | high           | medium | 4      | dynadot                                                   |
+| news.melbourne   | available | $58       | $58           | high           | medium | 4      | namesilo                                                  |
+| news.berlin      | resell    | —         | —             | high           | medium | 4      | —                                                         |
+| news.auction     | premium   | $512      | $512          | high           | medium | 4      | namesilo                                                  |
+| news.protection  | available | $2,070    | $2,950        | high           | medium | 4      | namecheap                                                 |
+| news.biz         | resell    | —         | —             | high           | medium | 4      | 1API GmbH                                                 |
+| news.beauty      | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo                                                  |
+| news.security    | available | $1,863.20 | $2,000.18     | high           | medium | 4      | spaceship                                                 |
+| news.black       | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| news.beer        | premium   | $207.20   | $26.08        | high           | medium | 4      | spaceship                                                 |
+| news.storage     | available | $509.99   | $529.99       | high           | medium | 4      | namesilo                                                  |
+| news.bond        | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 146,686 live domains                       |
+| 1,000-row public sample | 161,206 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 424 high-demand names under $2,500         |
+| Basic exported fields   | 383 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
