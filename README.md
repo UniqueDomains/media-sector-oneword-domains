@@ -1,10 +1,10 @@
-# One-Word Media Domain Names (201,229)
+# One-Word Media Domain Names (203,242)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-201%2C229%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-203%2C242%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 176,445 one-word domain names associated with the media sector, spanning 506 different TLDs. The median asking price is about $679. Updated daily to reflect current listings and pricing shifts across TLDs.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **201,229 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **203,242 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 201,229 domains · **Median ask:** $311.68 · **High-demand under $2,500:** 360
+**Public extract:** 1,000 rows · **Live catalog:** 203,242 domains · **Median ask:** $308.04 · **High-demand under $2,500:** 403
 
 **Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/sector/media`
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | news.auto        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                  |
 | press.mom        | resell    | $1.99      | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| film.press       | premium   | $2,587.70  | $5,175.20     | high           | low    | 4      | spaceship                                                 |
+| film.mov         | premium   | $648.70    | $648.70       | high           | low    | 4      | namecheap                                                 |
 | news.bingo       | available | $53.99     | $53.99        | high           | medium | 4      | namesilo                                                  |
 | press.paris      | resell    | $51.98     | —             | high           | low    | 5      | GoDaddy.com LLC                                           |
 | news.accountant  | premium   | $517.70    | $67.48        | high           | medium | 4      | spaceship                                                 |
 | news.car         | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                  |
-| radio.how        | resell    | $2,363.08  | —             | high           | medium | 5      | Dynadot LLC.                                              |
+| radio.talk       | resell    | $150       | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | news.accountants | premium   | $102.67    | $102.67       | high           | medium | 4      | spaceship                                                 |
 | news.cars        | available | $2,140.22  | $2,140.22     | high           | medium | 4      | dynadot                                                   |
 | broadcast.fit    | resell    | $2.99      | —             | high           | low    | 9      | Spaceship, Inc.                                           |
 | news.attorney    | premium   | $4,140     | $4,140        | high           | medium | 4      | namesilo                                                  |
 | news.protection  | available | $2,140.22  | $2,140.22     | high           | medium | 4      | dynadot                                                   |
-| broadcast.health | resell    | $19.99     | —             | high           | low    | 9      | Dynadot Inc                                               |
+| broadcast.mobi   | resell    | $6.99      | —             | high           | low    | 9      | Dynadot Inc                                               |
 | news.auction     | premium   | $512       | $512          | high           | medium | 4      | namesilo                                                  |
 | news.security    | available | $2,000.20  | $2,000.20     | high           | medium | 4      | cloudflare                                                |
-| journalism.me    | resell    | $18,271.20 | $27.99        | high           | low    | 10     | Dynadot Inc                                               |
+| journalism.co    | resell    | $5,514.25  | $48.99        | high           | low    | 10     | GoDaddy Online Services Cayman Islands Ltd.               |
 | news.beauty      | premium   | $2,600     | $2,600        | high           | medium | 4      | namecheap                                                 |
 | news.storage     | available | $500.20    | $500.20       | high           | medium | 4      | cloudflare                                                |
-| film.so          | resell    | —          | —             | high           | medium | 4      | NameCheap                                                 |
+| journalism.me    | resell    | $18,271.20 | $27.99        | high           | low    | 10     | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 201,229 live domains                                 |
+| 1,000-row public sample | 203,242 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 360 high-demand names under $2,500                   |
+| Basic exported fields   | 403 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
