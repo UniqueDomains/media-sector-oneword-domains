@@ -1,10 +1,10 @@
-# One-Word Media Domain Names (225,848)
+# One-Word Media Domain Names (226,307)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-225%2C848%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-226%2C307%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 176,445 one-word domain names associated with the media sector, spanning 506 different TLDs. The median asking price is about $679. Updated daily to reflect current listings and pricing shifts across TLDs.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **225,848 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **226,307 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 225,848 domains · **Median ask:** $284.63 · **High-demand under $2,500:** 323
+**Public extract:** 1,000 rows · **Live catalog:** 226,307 domains · **Median ask:** $284.02 · **High-demand under $2,500:** 326
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 **Canonical page:** `https://unique.domains/domains/sector/media`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| news.accountants | available | $117.99    | $117.99       | high           | medium | 4      | namesilo                                                  |
-| press.mom        | resell    | $1.99      | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| film.mov         | premium   | $648.70    | $648.70       | high           | low    | 4      | namecheap                                                 |
-| news.auto        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                  |
-| press.paris      | resell    | $51.98     | —             | high           | low    | 5      | GoDaddy.com LLC                                           |
-| film.press       | premium   | $2,587.70  | $5,175.20     | high           | low    | 4      | spaceship                                                 |
-| news.bingo       | available | $42.64     | $42.64        | high           | medium | 4      | spaceship                                                 |
-| broadcast.fit    | resell    | $2.99      | —             | high           | low    | 9      | Spaceship, Inc.                                           |
-| news.accountant  | premium   | $517.70    | $67.48        | high           | medium | 4      | spaceship                                                 |
-| news.car         | available | $1,863.20  | $2,064.20     | high           | medium | 4      | spaceship                                                 |
-| broadcast.health | resell    | $19.99     | —             | high           | low    | 9      | Dynadot Inc                                               |
-| news.attorney    | premium   | $3,105.20  | $3,105.20     | high           | medium | 4      | spaceship                                                 |
-| news.cars        | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo                                                  |
-| journalism.co    | resell    | $5,514.25  | $48.99        | high           | low    | 10     | GoDaddy Online Services Cayman Islands Ltd.               |
-| news.auction     | premium   | $414.20    | $414.20       | high           | medium | 4      | spaceship                                                 |
-| news.melbourne   | available | $58        | $58           | high           | medium | 4      | namesilo                                                  |
-| journalism.me    | resell    | $18,271.20 | $27.99        | high           | low    | 10     | Dynadot Inc                                               |
-| news.beauty      | premium   | $2,070.20  | $2,070.20     | high           | medium | 4      | spaceship                                                 |
-| news.protection  | available | $2,064.20  | $2,064.20     | high           | medium | 4      | spaceship                                                 |
-| film.so          | resell    | —          | —             | high           | medium | 4      | NameCheap                                                 |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| news.accountants | available | $117.99   | $117.99       | high           | medium | 4      | namesilo                                                  |
+| press.mom        | resell    | $1.99     | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| news.accountant  | premium   | $517.70   | $67.48        | high           | medium | 4      | spaceship                                                 |
+| news.auto        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| press.paris      | resell    | $51.98    | —             | high           | low    | 5      | GoDaddy.com LLC                                           |
+| news.attorney    | premium   | $3,105.20 | $3,105.20     | high           | medium | 4      | spaceship                                                 |
+| news.bingo       | available | $42.64    | $42.64        | high           | medium | 4      | spaceship                                                 |
+| broadcast.mobi   | resell    | $6.99     | —             | high           | low    | 9      | Dynadot Inc                                               |
+| news.auction     | premium   | $414.20   | $414.20       | high           | medium | 4      | spaceship                                                 |
+| news.car         | available | $1,863.20 | $2,064.20     | high           | medium | 4      | spaceship                                                 |
+| journalism.co    | resell    | $5,514.25 | $48.99        | high           | low    | 10     | GoDaddy Online Services Cayman Islands Ltd.               |
+| news.beauty      | premium   | $2,070.20 | $2,070.20     | high           | medium | 4      | spaceship                                                 |
+| news.cars        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| news.academy     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| news.beer        | premium   | $242      | $29.50        | high           | medium | 4      | namesilo                                                  |
+| news.melbourne   | available | $58       | $58           | high           | medium | 4      | namesilo                                                  |
+| news.airforce    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| news.bid         | premium   | $13,800   | $116          | high           | medium | 4      | namesilo                                                  |
+| news.protection  | available | $2,064.20 | $2,064.20     | high           | medium | 4      | spaceship                                                 |
+| news.berlin      | resell    | —         | —             | high           | medium | 4      | —                                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 225,848 live domains                                 |
+| 1,000-row public sample | 226,307 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 323 high-demand names under $2,500                   |
+| Basic exported fields   | 326 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Media Domain Names*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Media Domain Names*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
