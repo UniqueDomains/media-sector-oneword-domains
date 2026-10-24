@@ -1,10 +1,10 @@
-# One-Word Media Domain Names (214,604)
+# One-Word Media Domain Names (214,552)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-214%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-214%2C552%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 176,445 one-word domain names associated with the media sector, spanning 506 different TLDs. The median asking price is about $679. Updated daily to reflect current listings and pricing shifts across TLDs.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **214,604 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **214,552 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 214,604 domains · **Median ask:** $296.24 · **High-demand under $2,500:** 2,267
+**Public extract:** 1,000 rows · **Live catalog:** 214,552 domains · **Median ask:** $296.14 · **High-demand under $2,500:** 2,273
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/media`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 214,604 live domains                                 |
+| 1,000-row public sample | 214,552 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,267 high-demand names under $2,500                 |
+| Basic exported fields   | 2,273 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
